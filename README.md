@@ -29,28 +29,28 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <tr>
         <td>19:35 ~ 19:55</td>
         <td>20分</td>
-        <td colspan="2">社長からのお話</td>
+        <td colspan="2">① 社長からのお話</td>
         <td>社長</td>
         <td>年度はじめにあたってのお話</td>
     </tr>
     <tr>
         <td>19:55 ~ 20:00</td>
         <td>5分</td>
-        <td colspan="2">レクリエーションの告知</td>
+        <td colspan="2">② レクリエーションの告知</td>
         <td>近藤さん</td>
         <td>Teams でボードゲーム</td>
     </tr>
     <tr>
         <td>20:00 ~ 20:10</td>
         <td>10分</td>
-        <td colspan="2">Good Job 賞</td>
+        <td colspan="2">③ Good Job 賞</td>
         <td>中野さん</td>
         <td>今月は誰かな？</td>
     </tr>
     <tr>
         <td>20:10 ~ 20:25</td>
         <td>15分</td>
-        <td colspan="2">新卒紹介</td>
+        <td colspan="2">④ 新卒紹介</td>
         <td>今立さん</td>
         <td>新卒の新入社員へのインタビュー</td>
     </tr>
@@ -64,7 +64,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <tr>
         <td>20:40 ~ 20:43</td>
         <td>3分</td>
-        <td rowspan="5">組織紹介</td>
+        <td rowspan="5">⑤ 組織紹介</td>
         <td>全体説明</td>
         <td>松田さん</td>
         <td>組織図を使って今期本社の組織を説明</td>
