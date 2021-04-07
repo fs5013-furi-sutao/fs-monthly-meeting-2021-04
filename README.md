@@ -48,14 +48,21 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>今月は誰かな？</td>
     </tr>
     <tr>
-        <td>20:10 ~ 20:20</td>
-        <td>12分</td>
+        <td>20:10 ~ 20:25</td>
+        <td>15分</td>
+        <td colspan="2">新卒紹介</td>
+        <td>今立さん</td>
+        <td>新卒の新入社員へのインタビュー</td>
+    </tr>
+    <tr>
+        <td>20:25 ~ 20:40</td>
+        <td>15分</td>
         <td colspan="2">先輩インタビュー</td>
         <td>今立さん</td>
         <td>受託部 清水勝貴さんへのインタビュー</td>
     </tr>
     <tr>
-        <td>20:20 ~ 20:23</td>
+        <td>20:40 ~ 20:43</td>
         <td>3分</td>
         <td rowspan="5">組織紹介</td>
         <td>全体説明</td>
@@ -63,55 +70,56 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>組織図を使って今期本社の組織を説明</td>
     </tr>
     <tr>
-        <td>20:23 ~ 20:26</td>
+        <td>20:43 ~ 20:46</td>
         <td>3分</td>
         <td>管理部</td>
         <td>斧田さん</td>
         <td>管理部について説明</td>
     </tr>
     <tr>
-        <td>20:26 ~ 20:29</td>
+        <td>20:46 ~ 20:49</td>
         <td>3分</td>
         <td>採用部</td>
         <td>今立さん</td>
         <td>採用部について説明</td>
     </tr>
     <tr>
-        <td>20:29~ 20:32</td>
+        <td>20:49~ 20:52</td>
         <td>3分</td>
         <td>営業部</td>
         <td>中野さん</td>
         <td>営業部について説明</td>
     </tr>
     <tr>
-        <td>20:32~ 20:35</td>
+        <td>20:52~ 20:55</td>
         <td>3分</td>
         <td>人事部</td>
         <td>近藤さん</td>
         <td>人事部について説明</td>
     </tr>
     <tr>
-        <td>20:35 ~ 20:40</td>
+        <td>20:55 ~ 21:00</td>
         <td>5分</td>
         <td colspan="2">グループディスカッションの席へ移動</td>
         <td>―</td>
         <td>REMO のテーブルへ移動</td>
     </tr>
     <tr>
-        <td>20:40 ~ 20:55</td>
+        <td>21:00 ~ 21:15</td>
         <td>15分</td>
         <td colspan="2">グループディスカッション</td>
         <td>―</td>
         <td>各テーブルでグループディスカッション</td>
     </tr>
     <tr>
-        <td>20:55 ~ 21:00</td>
+        <td>21:15 ~ 21:20</td>
         <td>5分</td>
         <td colspan="2">おわりに</td>
         <td>今立</td>
         <td>みなさん、お疲れ様でした</td>
     </tr>
 </table>
+
 
 21:00 ～ 二次会
 
