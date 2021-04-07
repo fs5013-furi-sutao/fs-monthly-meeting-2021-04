@@ -7,7 +7,7 @@
 今回の定例会は、 **「あなたのチームメンバを魅力的に紹介しよう」** というワークをします。
 
 4月度定例会メイン Teams:  
-https://teams.microsoft.com/l/meetup-join/19%3a2cc0d6f3aa46403eb620a932ed953e6d%40thread.tacv2/1617777709167?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
+https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%40thread.tacv2/1617778129922?context=%7b%22Tid%22%3a%227e19d899-8805-4c1b-8e0e-00fe710963e4%22%2c%22Oid%22%3a%2247665828-a717-478d-a455-bd3a3dbfaaf2%22%7d
 
 ## ⬛ 🕢 タイムテーブル
 
