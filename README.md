@@ -27,11 +27,11 @@ https://teams.microsoft.com/l/meetup-join/19%3a2cc0d6f3aa46403eb620a932ed953e6d%
         <td>あいさつ、前回の振り返り</td>
     </tr>
     <tr>
-        <td rowspan="5">19:35 ~ 19:55</td>
-        <td rowspan="5">20分</td>
-        <td colspan="2" rowspan="5">社長からのお話</td>
-        <td rowspan="5">社長</td>
-        <td rowspan="5">年度はじめにあたってのお話</td>
+        <td>19:35 ~ 19:55</td>
+        <td>20分</td>
+        <td colspan="2">社長からのお話</td>
+        <td>社長</td>
+        <td>年度はじめにあたってのお話</td>
     </tr>
     <tr>
         <td>19:55 ~ 20:00</td>
