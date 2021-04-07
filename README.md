@@ -125,7 +125,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 # ⬛ 二次会について
 
-FS 4月度定例会 グループディスカッション | REMO
+FS 4月度定例会 グループディスカッション | REMO  
 https://live.remo.co/e/fs-4-1
 
 ## 💬 二次会でのトークテーマ
