@@ -107,7 +107,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <tr>
         <td>21:00 ~ 21:15</td>
         <td>15分</td>
-        <td colspan="2">グループディスカッション</td>
+        <td colspan="2">⑦ グループディスカッション</td>
         <td>―</td>
         <td>各テーブルでグループディスカッション</td>
     </tr>
