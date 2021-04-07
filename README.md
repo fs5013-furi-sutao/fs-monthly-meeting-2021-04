@@ -57,14 +57,14 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     <tr>
         <td>20:25 ~ 20:40</td>
         <td>15分</td>
-        <td colspan="2">先輩インタビュー</td>
+        <td colspan="2">⑤ 先輩インタビュー</td>
         <td>今立さん</td>
         <td>受託部 清水勝貴さんへのインタビュー</td>
     </tr>
     <tr>
         <td>20:40 ~ 20:43</td>
         <td>3分</td>
-        <td rowspan="5">⑤ 組織紹介</td>
+        <td rowspan="5">⑥ 組織紹介</td>
         <td>全体説明</td>
         <td>松田さん</td>
         <td>組織図を使って今期本社の組織を説明</td>
