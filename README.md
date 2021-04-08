@@ -196,4 +196,5 @@ https://live.remo.co/e/fs-4-1
 ## ⬛ 📝 感想フォーム
 
 4月度定例会 感想フォーム：  
-**https://forms.gle/KJKDLAJfmnx1hARi8**
+**https://forms.gle/7obCu6zJuY4Hr39d9**
+
