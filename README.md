@@ -129,7 +129,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 > ### FS 4月度定例会 レッド会場    
 > https://live.remo.co/e/fs-4-1
 
-> F テーブル、G テーブル、H テーブル、I テーブル、J テーブルの方は、以下の「レッド会場」へ
+> F テーブル、G テーブル、H テーブル、I テーブル、J テーブルの方は、以下の「ブルー会場」へ
 > 
 > ### FS 4月度定例会 ブルー会場    
 > https://live.remo.co/e/fs-4-2
