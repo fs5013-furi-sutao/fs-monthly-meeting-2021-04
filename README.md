@@ -230,8 +230,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 
 ## ⬛ 📝 感想アンケートフォーム
 
-4月度定例会 感想フォーム：  
-**https://forms.gle/7obCu6zJuY4Hr39d9**
+受付中のアンケート一覧：  
+**https://github.com/fs5013-furi-sutao/fs-its-accepting-surveys-list**
 
 ※遅れて定例会に参加した方は、来週月曜日に定例会の録画を公開するので、動画を視聴後、感想アンケートにご回答ください
-
