@@ -105,22 +105,20 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>REMO のテーブルへ移動</td>
     </tr>
     <tr>
-        <td>21:00 ~ 21:15</td>
-        <td>15分</td>
+        <td>21:00 ~ 21:55</td>
+        <td>55分</td>
         <td colspan="2">⑦ グループディスカッション</td>
         <td>―</td>
         <td>各テーブルでグループディスカッション</td>
     </tr>
     <tr>
-        <td>21:15 ~ 21:20</td>
+        <td>21:55 ~ 21:20</td>
         <td>5分</td>
         <td colspan="2">おわりに</td>
         <td>今立</td>
         <td>みなさん、お疲れ様でした</td>
     </tr>
 </table>
-
-21:20 ～ 22:00 二次会をします
 
 <br/>
 
