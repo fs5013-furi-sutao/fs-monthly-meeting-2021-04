@@ -38,7 +38,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>5分</td>
         <td colspan="2">② レクリエーションの告知</td>
         <td>近藤さん</td>
-        <td>Teams でボードゲーム</td>
+        <td>REMO でボードゲーム</td>
     </tr>
     <tr>
         <td>20:00 ~ 20:10</td>
