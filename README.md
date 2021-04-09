@@ -31,7 +31,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>20分</td>
         <td colspan="2">① 社長からのお話</td>
         <td>社長</td>
-        <td>年度はじめにあたってのお話</td>
+        <td>今期が始まるにあたってのお話</td>
     </tr>
     <tr>
         <td>19:55 ~ 20:00</td>
