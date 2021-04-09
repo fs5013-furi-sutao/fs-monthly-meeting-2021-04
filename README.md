@@ -112,7 +112,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
         <td>各テーブルでグループディスカッション</td>
     </tr>
     <tr>
-        <td>21:55 ~ 21:20</td>
+        <td>21:55 ~ 22:00</td>
         <td>5分</td>
         <td colspan="2">おわりに</td>
         <td>今立</td>
