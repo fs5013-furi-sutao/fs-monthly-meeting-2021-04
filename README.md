@@ -121,7 +121,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 </table>
 
 
-21:20 ～ 二次会
+21:20 ～ 22:00 二次会をします
 
 ## ⬛ グループディスカッション
 
