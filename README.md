@@ -120,8 +120,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
     </tr>
 </table>
 
-
 21:20 ～ 22:00 二次会をします
+
+<br/>
 
 ## ⬛ グループディスカッション
 
@@ -140,6 +141,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 - 志望部署とその理由
 - 今何に力を入れているか
 など・・・
+
+<br/>
 
 ## ⬛ 👨‍👩‍👧‍👦 テーブル分けについて
 
@@ -180,6 +183,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 **参加:** 羽賀文哉  倉田卓弥  荒川貴詳    
 **途中参加:** 服部睦  中島駿介        
 
+<br/>
+
 > ## FS 4月度定例会 ブルー会場    
 > https://live.remo.co/e/fs-4-2
 
@@ -215,6 +220,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 **参加:** 松浦晴菜  水野裕康  住明日奈    
 **途中参加:** 永島将嗣  三輪一仁  浄土高広 
 
+<br/>
+
 # ⬛ 二次会について
 
 ## 💬 二次会でのトークテーマ
@@ -227,6 +234,8 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 - 仕事とプライベートの切り替え方
 - やってよかったこと/失敗したこと
 - コミュニケーションで気を付けていること
+
+<br/>
 
 ## ⬛ 📝 感想アンケートフォーム
 
