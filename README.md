@@ -134,6 +134,9 @@ https://teams.microsoft.com/l/meetup-join/19%3a4783ed85d7ff4ce28c90f29e2e16033d%
 > ### FS 4月度定例会 ブルー会場    
 > https://live.remo.co/e/fs-4-2
 
+今回のディスカッションは、    
+話をする機会を増やして仲良くなることが目的です。    
+
 ### 💬 トークテーマ
 
 - 志望部署とその理由
