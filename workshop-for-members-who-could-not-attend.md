@@ -42,7 +42,7 @@ https://teams.microsoft.com/l/meetup-join/19%3a6f61eab8638e4261910eeeaa171f4ab5%
 
 <br/>
 
-## ワークショップ日程スケジュール表
+## グループディスカッション日程スケジュール表
 
 <table>
   <tr>
